@@ -45,7 +45,7 @@ fun SplashScreen(navController: NavController? = null) {
     )
     {
         Text(
-            text = "Saving on dog \nwill not change \nthe world,",
+            text = "Saving one dog \nwill not change \nthe world,",
             modifier = Modifier
                 .fillMaxWidth()
                 .padding(top = 25.dp, bottom = 15.dp),
