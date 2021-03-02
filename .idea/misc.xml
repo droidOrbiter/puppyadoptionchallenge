@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/compose-model-1614514673440.xml" value="1.0" />
+        <entry key="../../../../layout/compose-model-1614515160082.xml" value="0.67" />
+        <entry key="../../../../layout/compose-model-1614516402392.xml" value="0.33" />
+        <entry key="../../../../layout/compose-model-1614516961242.xml" value="0.412962962962963" />
+        <entry key="../../../../layout/compose-model-1614521276797.xml" value="1.0" />
+        <entry key="../../../../layout/compose-model-1614530716713.xml" value="0.27568218298555375" />
+        <entry key="../../../../layout/compose-model-1614534653260.xml" value="0.412962962962963" />
+        <entry key="../../../../layout/compose-model-1614536683856.xml" value="0.412962962962963" />
+        <entry key="../../../../layout/compose-model-1614617776460.xml" value="0.34881756756756754" />
+        <entry key="../../../../layout/compose-model-1614618016500.xml" value="0.2851851851851852" />
+        <entry key="../../../../layout/compose-model-1614621436954.xml" value="0.33" />
+        <entry key="../../../../layout/compose-model-1614624620754.xml" value="0.33" />
+        <entry key="../../../../layout/compose-model-1614626324316.xml" value="0.29011824324324326" />
+        <entry key="../../../../layout/compose-model-1614626447327.xml" value="1.0" />
+        <entry key="../../../../layout/compose-model-1614626580070.xml" value="0.29011824324324326" />
+        <entry key="../../../../layout/compose-model-1614626604697.xml" value="0.25" />
+        <entry key="../../../../layout/compose-model-1614627226530.xml" value="0.29011824324324326" />
+        <entry key="../../../../layout/compose-model-1614705465936.xml" value="0.29011824324324326" />
+        <entry key="../../../../layout/compose-model-1614709062580.xml" value="0.31666666666666665" />
+        <entry key="app/src/main/res/layout/fragment_splash.xml" value="0.1911231884057971" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
